@@ -1,5 +1,5 @@
 # suckless-patches
-My patches for http://suckless.org/ (dwm)
+My patches for http://suckless.org/
 
 ## dwm
 - [dwm-bidi-20220309-0386419.diff](./dwm/dwm-bidi-20220309-0386419.diff) (https://dwm.suckless.org/patches/bidi/)
